@@ -35,8 +35,8 @@ I am a passionate developer from **Algeria** dedicated to building modern, scala
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aimadsam&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimadsam&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aimadsamah&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimadsamah&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
