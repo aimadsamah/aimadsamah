@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I am a passionate developer from **Algeria** dedicated to building modern, scalable web applications. Currently, I'm focusing on **optimizing web performance and Core Web Vitals** to ensure seamless user experiences.
 
-* 💼 **Portfolio:** [portfolio.com](https://portfolio.com)
+* 💼 **Portfolio:** [portfolio.com](https://pportfolio-virid.vercel.app/)
 * 📬 **Contact:** [imedsam4@gmail.com](mailto:imedsam4@gmail.com)
 * 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1MmUPvTZ2ULJzWg5rSwdpZwOlvOpXQjY7/view?usp=drive_link)
 * ☕ **Fun Fact:** I turn coffee into clean, efficient code.
@@ -35,8 +35,8 @@ I am a passionate developer from **Algeria** dedicated to building modern, scala
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aimadsamah&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimadsamah&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aimadsamah&show_icons=true&theme=vision-friendly-dark&hide_border=true&cache=1" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimadsamah&layout=compact&theme=vision-friendly-dark&hide_border=true&cache=1" />
 </p>
 
 ---
